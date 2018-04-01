@@ -1,0 +1,18 @@
+#app {
+font-family: 'Avenir';
+color: #2c3350;
+
+margin-top: 60px;
+
+}
+
+.col-centered{
+
+	float: none;
+    margin: 0 auto;
+    
+}
+
+.item-box{
+    border: 2px solid darkgreen;
+}
